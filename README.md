@@ -1,5 +1,8 @@
 <h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
+### Github Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
