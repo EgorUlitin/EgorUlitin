@@ -1,12 +1,4 @@
-<h1>Hi, there 👋.I'm Egor Ulitin, Frontend Developer 💻</h1>
-
-<h2 align="left">
- <abc>
-  <br> I'm Egor Ulitin, Frontend Developer :computer:<br>
- </abc>
-</h2>
-
-<br/>
+<h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
