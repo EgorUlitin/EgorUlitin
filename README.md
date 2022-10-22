@@ -30,7 +30,7 @@
  </a>
 </p>
 
-<h2 align="left">:heart: Let's get connected :</h2>
+<h2 align="left">:mail: Let's get connected :</h2>
  <a href="mailto:egorulitin@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
  </a>
