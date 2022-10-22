@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hi, there 👋.I'm Egor Ulitin, Frontend Developer 💻</h1>
+
 <h2 align="left">
  <abc>
   <br> I'm Egor Ulitin, Frontend Developer :computer:<br>
