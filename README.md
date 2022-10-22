@@ -3,7 +3,7 @@
 ### <h2>:zap: Github Stats :</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use :</h2>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
@@ -30,9 +30,13 @@
  </a>
 </p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
-
-
+<h2 align="left">:heart: Let's get connected :</h2>
+ <a href="mailto:egorulitin@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+ </a>
+ <a href="https://t.me/egormikhailovich">
+  <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+ </a>
 
 
 
