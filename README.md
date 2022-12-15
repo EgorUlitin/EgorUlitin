@@ -19,9 +19,15 @@
 ![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge)
 
 ### <h2>:zap: Github Stats :</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=darcula">
+  <img align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=darcula" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=darcula">
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starikovyaroslav&show_icons=true&theme=darcula" />
+</a>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
