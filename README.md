@@ -1,6 +1,6 @@
 <h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
-- 🔭 Open to work, remote or Saint-P.
+- 🔭 Open to work, remote or Saint Petersburg.
 - :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1104).
 - 👨‍💻 Check my projects [here](https://github.com/egorilitin?tab=repositories).
 - :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aegorulitin+archived%3Afalse+is%3Aclosed)
