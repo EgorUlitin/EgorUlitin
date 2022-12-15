@@ -1,5 +1,16 @@
 <h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
+- 🔭 Open to work, remote or Saint-P.
+- :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1104).
+- 👨‍💻 Check my projects [here](https://github.com/egorilitin?tab=repositories).
+- :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aegorulitin+archived%3Afalse+is%3Aclosed)
+- :hammer_and_wrench: Main Stack: JAVASCRIPT, REACT, REDUX+TOOLKIT, HTML5, CSS3, SASS
+- ⚡ Currently learning TypeScript.
+
+📫 How to reach me:
+<br>Email: egorulitin@gmail.com
+<br>telegram: @egormikhailovich
+
 <h2 align="left">:email: Let's get connected :</h2>
  <a href="mailto:egorulitin@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
