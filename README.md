@@ -20,9 +20,9 @@
 
 ### <h2>:zap: Github Stats :</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-light">
-  <img align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=transparent" />
+  <img align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-light" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=transparent">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-light">
   <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-light" />
 </a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
