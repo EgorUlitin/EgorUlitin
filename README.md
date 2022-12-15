@@ -1,11 +1,11 @@
 <h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
 - 🔭 Open to work, remote or Saint Petersburg.
+- - :hammer_and_wrench: Main Stack: JAVASCRIPT, REACT, REDUX+TOOLKIT, HTML5, CSS3, SASS.
+- ⚡ Currently learning TypeScript.
 - :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1104).
 - 👨‍💻 Check my projects [here](https://github.com/egorulitin?tab=repositories).
 - :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aegorulitin+archived%3Afalse+is%3Aclosed)
-- :hammer_and_wrench: Main Stack: JAVASCRIPT, REACT, REDUX+TOOLKIT, HTML5, CSS3, SASS
-- ⚡ Currently learning TypeScript.
 
 📫 How to reach me:
 <br>Email: egorulitin@gmail.com
