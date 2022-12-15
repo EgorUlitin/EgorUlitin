@@ -1,39 +1,5 @@
 <h1>Hi, there 👋. I'm Egor Ulitin, Frontend Developer 💻</h1>
 
-### <h2>:zap: Github Stats :</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use :</h2>
-<p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
- <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </a>
- <a href="https://webpack.js.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
- </a>
- <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
- </a>
- <a href="https://sass-lang.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- </a>
- <a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- </a>
-</p>
-
 <h2 align="left">:email: Let's get connected :</h2>
  <a href="mailto:egorulitin@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
@@ -41,8 +7,21 @@
  <a href="https://t.me/egormikhailovich">
   <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
  </a>
+ 
+ <h2 align="left">:hammer_and_wrench: Technologies and Tools I use :</h2>
+<br>![JS](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge) ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge) ![Redux + Toolkit](https://img.shields.io/badge/-Redux+Toolkit-6A5ACD?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-FFA500?style=for-the-badge) ![CSS3](https://img.shields.io/badge/-CSS3-87CEEB?style=for-the-badge) ![SASS](https://img.shields.io/badge/-SASS-DB7093?style=for-the-badge) ![GIT](https://img.shields.io/badge/-GIT-FF4500?style=for-the-badge)
 
+<h3 align="left">Currently mastering:</h3>
 
+![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge)
+
+### <h2>:zap: Github Stats :</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **EgorUlitin/EgorUlitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
