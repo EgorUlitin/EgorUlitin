@@ -21,6 +21,14 @@
 
 ![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge)
 
+<h2 align="left">:email: Let's get connected :</h2>
+ <br><a href="mailto:egorulitin@gmail.com">
+  <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+ </a>
+ <a href="https://t.me/egormikhailovich">
+  <img align="left" src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+ </a>
+
 <h2>:zap: Github Stats :</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-light">
   <img align="left" height="200" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-dark" />
@@ -29,13 +37,7 @@
   <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-dark" />
 </a>
 
-<br><h2 align="left">:email: Let's get connected :</h2>
- <br><a href="mailto:egorulitin@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
- </a>
- <a href="https://t.me/egormikhailovich">
-  <img align="left" src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
- </a>
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorUlitin&title_color=04DAF6&text_color=FF8C00&icon_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A&show_icons=true&cache_seconds=1800&locale=en&border_radius=7&hide=,issues,&count_private=true&include_all_commit=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorUlitin&title_color=04DAF6FF&text_color=FF8C00&border_color=04DAF6FF&bg_color=2B2A2A)](https://github.com/anuraghazra/github-readme-stats) -->
