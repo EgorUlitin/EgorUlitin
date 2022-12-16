@@ -29,7 +29,7 @@
   <img align="left" src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
  </a>
 
-<h2>:zap: Github Stats :</h2>
+### <h2>:zap: Github Stats :</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-light">
   <img align="left" height="200" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-dark" />
 </a>
