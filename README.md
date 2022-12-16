@@ -28,7 +28,7 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-light">
   <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-dark" />
 </a>
-
+  
 <br /><h2 align="left">:email: Let's get connected :</h2>
  <a href="mailto:egorulitin@gmail.com">
   <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
