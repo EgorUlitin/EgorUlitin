@@ -21,12 +21,12 @@
 
 ![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge)
 
-<h2 align="left">:email: Let's get connected :</h2>
- <br><a href="mailto:egorulitin@gmail.com">
-  <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+<h2>:email: Let's get connected :</h2>
+ <a href="mailto:egorulitin@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
  </a>
  <a href="https://t.me/egormikhailovich">
-  <img align="left" src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
  </a>
 
 ### <h2 align="left">:zap: Github Stats :</h2>
