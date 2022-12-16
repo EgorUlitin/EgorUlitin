@@ -21,7 +21,7 @@
 
 ![TS](https://img.shields.io/badge/-TypeScript-0689fd?style=for-the-badge)
 
-### <h2>:zap: Github Stats :</h2>
+<h2>:zap: Github Stats :</h2>
 <a href="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-light">
   <img align="left" height="200" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=egorulitin&show_icons=true&theme=solarized-dark" />
 </a>
@@ -29,9 +29,7 @@
   <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorulitin&show_icons=true&theme=solarized-dark" />
 </a>
 
-___
-   
-### <h2>:email: Let's get connected :</h2>
+<h2>:email: Let's get connected :</h2>
  <a href="mailto:egorulitin@gmail.com">
   <img align="left" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
  </a>
