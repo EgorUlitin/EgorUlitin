@@ -7,6 +7,8 @@
 - 👨‍💻 Check my projects [here](https://github.com/egorulitin?tab=repositories).
 - :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aegorulitin+archived%3Afalse+is%3Aclosed)
 
+![Codewars stats](https://www.codewars.com/users/Egor_ulitin/badges/large)
+ ___
 📫 How to reach me:
 <br>Email: egorulitin@gmail.com
 <br>telegram: @egormikhailovich
