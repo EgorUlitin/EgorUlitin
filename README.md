@@ -3,7 +3,7 @@
 - 🔭 Open to work, remote or Saint Petersburg.
 - :hammer_and_wrench: Main Stack: JAVASCRIPT, REACT, REDUX+TOOLKIT, HTML5, CSS3, SASS.
 - ⚡ Currently learning TypeScript.
-- :page_facing_up: Check my CV [here](https://cv.hexlet.io/resumes/1104).
+- :page_facing_up: Check my CV [here]([https://cv.hexlet.io/resumes/1104](https://spb.hh.ru/applicant/resumes/view?resume=abd20a1bff03a9158f0039ed1f6770336a5359)).
 - 👨‍💻 Check my projects [here](https://github.com/egorulitin?tab=repositories).
 - :green_book: Check my contributions [here](https://github.com/pulls?q=is%3Apr+author%3Aegorulitin+archived%3Afalse+is%3Aclosed)
 
