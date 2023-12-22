@@ -11,7 +11,7 @@
  ___
 📫 How to reach me:
 <br>Email: egorulitin@gmail.com
-<br>telegram: @egormikhailovich
+<br>telegram: https://t.me/special_technique
  
  ___
  
